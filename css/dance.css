@@ -1,0 +1,604 @@
+.nav-iframe{
+    height: 100px;
+}
+.the-beat-of-life-col{
+    padding-top: 5%;
+
+}
+
+#the-beat-of-life{
+    font-size: 25px;
+    font-weight: 600;
+    color: #f6267d;
+
+}
+#best{
+    font-size: 60px;
+    margin-top: 20px;
+
+}
+#dance{
+    font-size: 100px;
+    font-weight: 800;
+    color: #f6267d;
+
+}
+#studio{
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+#dance-pairagraph{
+    color: gray;
+}
+#dance-pairagraph span{
+    display:block;
+
+}
+.image-hero3 img{
+    width: 100%;
+}
+.booknow-buttons button{
+    padding: 15px 30px 15px 30px;
+    color: white;
+    background-image: linear-gradient(45deg, #f6267d, #bf195e);
+    border: 2px solid #dd16bd;
+    border-radius: 10px;
+}
+.booknow-buttons a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.danceservice{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.danceservice-one h3{
+    font-size: 30px;
+    line-height: 0px;
+    color: #f6267d;
+    text-decoration: underline;
+}
+.danceservice-one h1{
+    font-size: 57px;
+    font-weight: 400;
+    margin-bottom: 65px;
+    margin-top: 30px;
+}
+.rhythmic-rhythms{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.rhythmic-rhythms-one{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border: 1px solid #f4f1f1;
+    border-radius: 20px;
+    box-shadow: 0 0 6px #ccc;
+}
+.rhythmic-rhythms-one img{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+.rhythmic-rhythms-one h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.rhythmic-rhythms-one span{
+    display: block;
+}
+.rhythmic-rhythms-one p{
+    color:gray;
+	margin-bottom: 5px;
+}
+
+.about-us{
+    margin-bottom: 100px;
+}
+.image-hero4 img{
+    width: 100%;
+}
+.aboutus{
+    padding-top: 5%;
+    padding-left: 2%;
+}
+.aboutus h4{
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-weight: 600;
+   	color: #f6267d;
+}
+.aboutus h1{
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 85px;
+	margin:0px;
+}
+.aboutus h1 span{
+    font-weight: 600;
+    text-decoration: underline;
+    color: #f6267d;
+}
+.aboutus p{
+    color:gray;
+    line-height: 35px;
+    margin-top: 15px;
+}
+.aboutus-book-now button{
+    padding: 15px 30px 15px 30px;
+    color: white;
+    background-image: linear-gradient(45deg, #f6267d, #bf195e);
+    border: 2px solid #dd16bd;
+    border-radius: 10px;
+}
+.aboutus-book-now a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.testimontals{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.testimontals h4{
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-weight: 600;
+    color: #f6267d;
+    text-decoration: underline;
+
+}
+.testimontals h1{
+    margin-bottom: 30px;
+    font-size: 55px;
+    margin-top: 20px;
+    font-weight: 400;
+
+}
+.francis img{
+    border-radius: 50%;
+    box-shadow: 0 0 6px #ccc;
+}
+.francis-one{
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+}
+.francis-two{
+    margin-left: 20px;
+}
+.francis-two h6{
+    font-size: 25px;
+    font-weight: 400;
+}
+.francis-two p{
+    font-size: 18px;
+    color: #f6267d;
+}
+.francis-one::after{
+    content: "";
+    position: absolute;
+    background-color: #f6267d;
+    height: 8px;
+    bottom: -25px;
+    width: 100%;
+}
+.QUAINT-DANCE{
+    text-align: center;
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+    border-radius: 15px;
+    border: 10px solid #ffffff;
+    box-shadow: 0 0 15px #ccc;
+    padding-bottom: 10px;
+}
+.QUAINT-simbol{
+    font-size: 100px;
+    height: 100px;
+    color: #f6267d;
+}
+.QUAINT-p-block{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+}
+.QUAINT-fontawosom{
+    font-size: 20px;
+    color: #fff343;
+}
+
+
+.get-started-with-dance{
+    padding-bottom: 65px;
+    text-align: center;
+    border-radius: 60px;
+    margin: 0 auto;
+    margin-top: 110px;
+    background-color: #f6267d;
+    border: 10px solid #ffffff;
+    box-shadow: 0 0 15px #f6267d;
+    margin-bottom: 100px;
+}
+.get-started-with-dance-div{
+    padding-top: 35px;
+}
+.get-started-with-dance-div h3{
+    font-size: 45px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 35px;
+}
+.get-started-with-dance-div p{
+    font-size: large;
+    line-height: 22px;
+    color: white;
+}
+.get-started-input-button{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white;
+    padding: 25px 0px 50px 0px;
+    border-radius: 15px;
+}
+.get-started-input-button input{
+    border: 0px;
+    position: absolute;
+    outline: none;
+    left: 27%;
+    width: 40%;
+}
+.get-started-input-button button{
+    position: absolute;
+    font-size: 14px;
+    padding: 12px 10px 12px 10px;
+    outline: none;
+    right: 29%;
+    background-image: linear-gradient(45deg, #f6267d, #bf195e);
+    border: 2px solid #dd16bd;
+    border-radius: 10px;
+     margin: -13px;
+}
+.model-bg-color{
+    background-image:linear-gradient(45deg, #cb34c8, #3c93d1);;
+    color: white;
+}
+.modal-header{
+    border: none;
+}
+.modal-footer{
+    border: none;
+}
+#close-button{
+    color: white;
+    background-color: red;
+    box-shadow: 0 0 6px #cb2323;
+    border: 0px;
+}
+#submit-button{
+    background-image: linear-gradient(45deg, #f6267d, #bf195e);
+    color: white;
+    border: none;
+    box-shadow: 0 0 6px #8e1671;
+}
+.footer-iframe{
+    height: 425px;
+}
+
+@media (max-width:992px){
+    .nav-iframe{
+        height: 80px;
+    }
+    body{
+        background-image: linear-gradient(45deg, #70f2d9, #7a97f8);
+    }
+    #the-beat-of-life{
+        margin: 0px;
+        font-size: 17px;
+    } 
+    #best{
+        font-size: 30px;
+        margin-top: 10px;  
+    }
+    #dance {
+        font-size: 50px;
+        font-weight: 600;
+        color: #f6267d;
+    }
+    #studio {
+        margin-bottom: 10px;
+        font-size: 30px;
+    }
+    #dance-pairagraph{
+        font-size: 15px;
+    }
+    #dance-pairagraph span{
+        display: inline;
+    }
+    .booknow-buttons button{
+        padding: 8px 13px 8px 13px;
+    }
+    .booknow-buttons a{
+        font-size: 15px;
+    }
+    .image-hero3 img {
+        padding-top: 30px;
+    }
+    .danceservice-one h3 {
+        font-size: 22px;
+    }
+    .danceservice-one h1 {
+        font-size: 35px;
+        font-weight: 300;
+    }
+    .rhythmic-rhythms-one h4 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .rhythmic-rhythms-one p {
+        font-size: 12px;
+        padding-top: 5px;
+    }
+    .rhythmic-rhythms-one span {
+        display: initial;
+    }
+    .rhythmic-rhythms-one a{
+        font-size: 14px;
+    }
+
+    .image-hero4 img{
+        padding-top: 30px;
+    }
+    .aboutus h4 {
+        font-size: 21px;
+        font-weight: 500;
+    }
+    .aboutus h1 {
+        font-size: 35px;
+        font-weight: 400;
+        line-height: 50px;
+    }
+    .aboutus h1 span {
+        font-weight: 500;
+    }
+    .aboutus p {
+        font-size: 12px;
+        line-height: 21px;
+        margin-top: 6px;
+    }
+    #about-us-p-hr br{
+        display: none;
+    }
+    .aboutus-book-now button{
+        padding: 8px 13px 8px 13px;
+    }
+    .aboutus-book-now a{
+        font-size: 15px;
+    }
+    .testimontals h4 {
+        font-size: 22px;
+    }
+    .testimontals h1 {
+        font-size: 35px;
+    }
+    .francis img {
+        height: 120px;
+    }
+    .francis-two h6 {
+        font-size: 20px;
+    }
+    .francis-two p {
+        font-size: 15px;
+    }
+    .QUAINT-DANCE {
+        width: 100%;
+        margin:0px;
+        border-radius: 20px;
+        border: 5px solid #ffffff;
+    }
+    .QUAINT-simbol {
+        font-size: 80px;
+        height: 85px;
+    }
+    .QUAINT-p-block {
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .QUAINT-fontawosom {
+        font-size: 15px;
+    }
+    .get-started-with-dance-div h3 {
+        font-size: 30px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .get-started-with-dance-div p {
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .get-started-input-button{
+        padding: 22px 0px 45px 0px;
+    }
+    .get-started-input-button input{
+        width: 30%;
+    }
+    .get-started-input-button button{
+        font-size: 13px;
+        padding: 10px 8px 10px 8px;
+        margin: -11px;
+    }
+    .footer-iframe{
+        height: 500px;
+    }
+
+}
+
+@media (max-width:768px){
+    .nav-iframe{
+        height: 55px;
+    }
+    body{
+        background-image: linear-gradient(45deg, #32e7ae, #70dee7);
+    }
+    .row{
+        margin: 0px;
+    }
+    #the-beat-of-life {
+        margin: 0px;
+        font-size: 12px;
+    }
+    #best {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    #dance {
+        font-size: 35px;
+    }
+    #studio {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    #dance-pairagraph {
+        font-size: 12px;
+    }
+    .booknow-buttons button {
+        padding: 7px 7px;
+        font-size: 12px;
+    }
+    .booknow-buttons a {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+    .danceservice {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    .danceservice-one h3 {
+        font-size: 15px;
+    }
+    .danceservice-one h1 {
+        font-size: 20px;
+        margin-bottom: 35px;
+        margin-top: 20px;
+    }
+    .rhythmic-rhythms {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .rhythmic-rhythms-one h4 {
+        font-size: 14px;
+    }
+    .rhythmic-rhythms-one p {
+        font-size: 12px;
+        padding-top: 5px;
+    }
+    .rhythmic-rhythms-one a {
+        font-size: 12px;
+    }
+    .about-us {
+        margin-bottom: 60px;
+    }
+    .image-hero4 img {
+        padding-top: 0px;
+    }
+    .aboutus {
+        padding-top: 5%;
+        padding-left: 12px;
+    }
+    .aboutus h4 {
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .aboutus h1 {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 30px;
+    }
+    .aboutus p {
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: 12px;
+    }
+    .aboutus-book-now button {
+        padding: 7px 7px;
+        font-size: 12px;
+    }
+    .aboutus-book-now a {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+    .testimontals h4 {
+        font-size: 15px;
+    }
+    .testimontals h1 {
+        margin-bottom: 20px;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .francis img {
+        height: 85px;
+    }
+    .francis-two h6 {
+        font-size: 14px;
+    }
+    .francis-two p {
+        font-size: 12px;
+    }
+    .QUAINT-simbol {
+        font-size: 60px;
+        height: 60px;
+    }
+    .QUAINT-p-block {
+        font-size: 12px;
+        margin: 0px 25px;
+        line-height: 13px;
+    }
+    .QUAINT-fontawosom {
+        font-size: 12px;
+    }
+    .get-started-with-dance {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        padding-bottom: 25px;
+        border-radius: 60px;
+        box-shadow: 0 0 10px #f6267d;
+        border: 7px solid #ffffff;
+    }
+    .get-started-with-dance-div {
+        padding-top: 25px;
+    }
+    .get-started-with-dance-div h3 {
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .get-started-with-dance-div p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .get-started-input-button {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 12px 0px 33px 0px;
+    }
+    .get-started-input-button input {
+        width: 35%;
+        font-size: 12px;
+        left: 26%;
+    }
+    .get-started-input-button button {
+        font-size: 12px;
+        margin: -5px;
+        padding: 4px 4px;
+        border-radius: 10px;
+        right: 26%;
+    }
+    .footer-iframe{
+        height: 1200px;
+    }
+
+}

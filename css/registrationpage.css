@@ -1,0 +1,13 @@
+.container h1,h2{
+    text-align: center;
+}
+h2{
+    margin-bottom: 50px;
+}
+main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.submit-form{
+    text-align: center;
+}
